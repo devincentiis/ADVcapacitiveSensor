@@ -1,0 +1,5 @@
+ADVcapacitiveSensor	KEYWORD1
+
+begin	KEYWORD2
+touch	KEYWORD2
+booltouch	KEYWORD2
