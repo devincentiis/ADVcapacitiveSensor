@@ -3,6 +3,7 @@
 ## Introduction
 
 ### This library and much of this README is based on Takuto Yamana's [FastCapacitiveSensor](https://github.com/Nyanyan/FastCapacitiveSensor) that enable you to use capacitive sensors, but respectely to original this subtract the offset values ​​when it is initialized with begin(). Added booltouch() method that returns only HIGH and LOW boolean values. The example script turns on the LED_BUILTIN. It is recommended to modify the hardware by adding an electrostatic discharge (ESD) protection resistor of at least 4.7Kohm
+<div style="text-align: right"><em>Antonio de Vincentiis</em></div>
 
 ## Software requirement
 
